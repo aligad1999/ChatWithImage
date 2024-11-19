@@ -6,6 +6,4 @@ easyocr
 opencv-python
 google-generativeai
 pillow
-streamlit==1.25.0
-google-auth==2.23.4
-easyocr==1.7.0
+
